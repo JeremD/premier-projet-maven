@@ -2,6 +2,7 @@ package dev;
 
 /**
  * Hello world!
+ * @author Jeremy
  *
  */
 public class App 
